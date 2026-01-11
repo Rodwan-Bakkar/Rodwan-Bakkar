@@ -17,6 +17,7 @@ I'm a Senior Software Engineer at [Bol](https://www.linkedin.com/company/bol-com
 
 -   🔐 [Authentication & Authorization Service](https://github.com/Rodwan-Bakkar/auth-svc)
 -   🛒 [DDD E-Commerce Microservices Platform](https://github.com/Rodwan-Bakkar/ddd-microservices-ecommerce)
+-   🛒 [CQRS and Event Sourcing Shopping Cart](https://github.com/Rodwan-Bakkar/shopping-cart)
 
 ## 📫 Get in Touch
 
